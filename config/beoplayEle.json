@@ -1,0 +1,20 @@
+{
+  "continue": "dk.beoplay.app:id/continue_button",
+  "plus": "dk.beoplay.app:id/action_add",
+  "back": "dk.beoplay.app:id/homeIcon",
+  "save": "dk.beoplay.app:id/text",
+  "password": "dk.beoplay.app:id/networkPassword",
+  "connect": "dk.beoplay.app:id/buttonView",
+  "next": "NEXT",
+  "retry": "RETRY",
+  "finish_setup": "FINISH",
+  "beomusic": "BEOLINK MULTIROOM",
+  "google_cast": "GET STARTED",
+  "no_thanks": "NO THANKS",
+  "setting": "android.widget.ImageButton",
+  "product_info": "Product info",
+  "finish": "Finish",
+  "add_device": "ADD DEVICE",
+  "remove_device": "REMOVE DEVICE"
+}
+

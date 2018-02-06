@@ -1,0 +1,16 @@
+{
+  "ignore": "android:id/button2",
+  "sign_email": "SIGN IN WITH EMAIL",
+  "sign_user": "com.bang_olufsen.OneApp:id/SignInTextFieldUserName",
+  "sign_pwd": "com.bang_olufsen.OneApp:id/SignInTextFieldPassword",
+  "sign_in": "com.bang_olufsen.OneApp:id/SignInButtonSignIn",
+  "add_product": "com.bang_olufsen.OneApp:id/NoProductsViewButtonAddProduct",
+  "product_name": "com.bang_olufsen.OneApp:id/ProductSimpleTextViewName",
+  "next_add": "com.bang_olufsen.OneApp:id/AddProductButtonAdd",
+  "input_pwd": "com.bang_olufsen.OneApp:id/AddProductWifiPasswordTextFieldName",
+  "next_wifi": "com.bang_olufsen.OneApp:id/AddProductWifiButtonNext",
+  "ok_button": "android:id/button1",
+  "home_product": "com.bang_olufsen.OneApp.preview:id/HomeProductTextView",
+  "remove_product": "REMOVE PRODUCT",
+  "another_reason": "ANOTHER REASON"
+}
